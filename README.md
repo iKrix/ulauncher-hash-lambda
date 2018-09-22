@@ -3,6 +3,9 @@
 
 ## Usage
 Install in Ulauncher using this url (https://github.com/xtrcode/ulauncher-hash-lambda), then use the algorithm you want or `hash` as a keyword.
+
+<img src="lambda.gif" width="410">
+
 ## Credits
 * The [icon](https://icons8.de/icon/32367/lambda) was created by [icons8](https://icons8.de/).
 * [Bruno Paz](https://github.com/brpaz) for the original [ulauncher-hash](https://github.com/brpaz/ulauncher-hash).
