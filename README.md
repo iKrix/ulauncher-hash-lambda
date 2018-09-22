@@ -2,11 +2,7 @@
 [Ulauncher](https://ulauncher.io/) extension to generate a wide variety of hashes.
 
 ## Usage
-Install in Ulauncher using this url (https://github.com/xtrcode/ulauncher-hash-lambda), then use the algorithm you want or `hash` as a keyword
-
-<img src="screenshot-md5.png" width="500">
-<img src="screenshot-full.png" width="500">
-
+Install in Ulauncher using this url (https://github.com/xtrcode/ulauncher-hash-lambda), then use the algorithm you want or `hash` as a keyword.
 ## Credits
 * The [icon](https://icons8.de/icon/32367/lambda) was created by [icons8](https://icons8.de/).
 * [Bruno Paz](https://github.com/brpaz) for the original [ulauncher-hash](https://github.com/brpaz/ulauncher-hash).
