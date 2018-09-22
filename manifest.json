@@ -1,10 +1,10 @@
 {
     "manifest_version": "2",
     "api_version": "1",
-    "name": "hash2",
-    "description": "Hash strings using common algorithms like md5, sha1 and sha256",
-    "developer_name": "Albin Larsson",
-    "icon": "icon.svg",
+    "name": "hash-lambda",
+    "description": "Hash strings using common algorithms.",
+    "developer_name": "xtracode",
+    "icon": "icon.png",
     "preferences": [
         {
             "id": "hash",
