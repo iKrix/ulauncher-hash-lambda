@@ -10,3 +10,4 @@ Install in Ulauncher using this url (https://github.com/xtrcode/ulauncher-hash-l
 * The [icon](https://icons8.de/icon/32367/lambda) was created by [icons8](https://icons8.de/).
 * [Bruno Paz](https://github.com/brpaz) for the original [ulauncher-hash](https://github.com/brpaz/ulauncher-hash).
 * [Albin Larsson](https://github.com/friday) for the [fork](https://github.com/friday/ulauncher-hash2) this repoisitory is based on.
+* [jstpcs](https://gitlab.com/jstpcs/lnxpcs/) for the [wallpaper](https://gitlab.com/jstpcs/lnxpcs/blob/master/walls/solarized-dark/solarized-wallpaper-linuxmasterrace.png).
