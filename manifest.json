@@ -47,6 +47,42 @@
             "type": "keyword",
             "name": "sha512",
             "default_value": "sha512"
+        },
+        {
+            "id": "blake2s256",
+            "type": "keyword",
+            "name": "blake2s256",
+            "default_value": "blake2s256"
+        },
+        {
+            "id": "blake2b512",
+            "type": "keyword",
+            "name": "blake2b512",
+            "default_value": "blake2b512"
+        },
+        {
+            "id": "md4",
+            "type": "keyword",
+            "name": "md4",
+            "default_value": "md4"
+        },
+        {
+            "id": "md5-sha1",
+            "type": "keyword",
+            "name": "md5-sha1",
+            "default_value": "md5-sha1"
+        },
+        {
+            "id": "ripemd160",
+            "type": "keyword",
+            "name": "ripemd160",
+            "default_value": "ripemd160"
+        },
+         {
+            "id": "whirlpool",
+            "type": "keyword",
+            "name": "whirlpool",
+            "default_value": "whirlpool"
         }
     ]
 }
